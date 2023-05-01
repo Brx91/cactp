@@ -1,0 +1,99 @@
+.conocer{
+	display: flex;
+	justify-content: center;
+}
+
+.codo{
+	margin-left: 40px;
+}
+
+.oradores{
+	display: flex;
+	justify-content: center;
+}
+
+.conoce{
+	font-size: 12px;
+	margin-top: 7px;
+}
+
+.orador{
+	font-size: 30px;
+	font-weight: lighter;
+
+}
+
+.js{
+	background-color: yellow;
+	border-radius: 5px;
+
+}
+
+.react{
+	background-color: lightblue;
+	border-radius: 5px;
+}
+
+.negocios{
+	background-color: lightgrey;
+	border-radius: 5px;
+}
+
+.startup{
+	background-color: lightpink;
+	border-radius: 5px;
+}
+
+.convertir{
+	font-size: 12px;
+	margin-top: 12px;
+}
+
+.anotate{
+	display: flex;
+	justify-content: center;
+}
+
+.ignite{
+	font-size: 16px;
+	margin-top: 2px;
+}
+
+footer{
+	background-color: rgba(53, 95, 149, 0.99);
+}
+
+.botonimg{
+	color: white;
+	font-size: 20px;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: transparent;
+	transition: .3s;
+}
+
+.botonimg:hover{
+	color: green;
+
+}
+
+.botoncard{
+	display: flex;
+	color: white;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: transparent;
+	transition: .3s;
+}
+
+.botoncard:hover{
+	color: green;
+}
+
+.nav li a:hover, .nav-item li.active a {
+  color: #f4511e !important;
+  background-color: #fff !important;
+  transition: .5s;
+  border-radius: 5px;
+  transform: scale(0.8);
+}
